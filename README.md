@@ -1,28 +1,85 @@
-![image](https://github.com/user-attachments/assets/b1f92295-8bcb-4046-b1ba-18d8d974b732)
+# 📦 dopme.io | Princípios SOLID com C# na prática
 
-Bem-vindo ao repositório do canal dopme.io! Aqui, exploramos como simplificar a complexidade do desenvolvimento de software utilizando a linguagem C# e os Princípios SOLID de design.
-## Sobre o Projeto
-No desenvolvimento de software, a complexidade é um dos maiores desafios enfrentados pelos programadores. Este projeto visa fornecer uma abordagem clara e prática para entender e aplicar os princípios SOLID no contexto do C#. 
-## O que são os Princípios SOLID?
-SOLID é um acrônimo que representa cinco princípios fundamentais do design de software que ajudam a tornar o código mais legível, manutenível e escalável:
-1. **S** - Single Responsibility Principle (Princípio da Responsabilidade Única)
-2. **O** - Open/Closed Principle (Princípio Aberto/Fechado)
-3. **L** - Liskov Substitution Principle (Princípio da Substituição de Liskov)
-4. **I** - Interface Segregation Principle (Princípio da Segregação de Interface)
-5. **D** - Dependency Inversion Principle (Princípio da Inversão de Dependência)
-   
-## Objetivos
-- **Educar**: Proporcionar conhecimento sobre os princípios SOLID e suas aplicações práticas em C#.
-- **Demonstrar**: Exemplos claros e práticos que mostram como esses princípios podem ser aplicados para resolver problemas comuns.
-- **Simplificar**: Tornar conceitos complexos acessíveis e compreensíveis para desenvolvedores de todos os níveis.
-  
-## Conteúdo
-- **Vídeos Tutoriais**: Explicações detalhadas sobre cada princípio.
-- **Exemplos de Código**: Projetos de exemplo em C# que demonstram a aplicação dos princípios.
-- **Discussões**: Espaço para perguntas e troca de ideias sobre o desenvolvimento com C#.
+[![.NET](https://github.com/daniloopinheiro/SimplificandoSOLIDcomCSharp/actions/workflows/dotnet.yml/badge.svg)](https://github.com/daniloopinheiro/SimplificandoSOLIDcomCSharp/actions/workflows/dotnet.yml)
 
-## Como Contribuir
-Contribuições são sempre bem-vindas! Se você tem ideias, sugestões ou melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+![dopme.io banner](https://github.com/user-attachments/assets/b1f92295-8bcb-4046-b1ba-18d8d974b732)
 
-## Licença
-Este projeto está sob a licença MIT. Sinta-se à vontade para utilizar, modificar e distribuir.
+> Bem-vindo ao repositório oficial do canal **dopme.io**!  
+> Aqui descomplicamos a complexidade do desenvolvimento de software aplicando **C#** com os **Princípios SOLID** de design.
+
+---
+
+## 📌 Sobre o Projeto
+
+A complexidade é um dos maiores inimigos no desenvolvimento de software. Este projeto tem como objetivo apresentar uma abordagem **prática e acessível** para aplicar os princípios **SOLID** no contexto do **.NET/C#**, melhorando a **qualidade, manutenção e escalabilidade** do seu código.
+
+---
+
+## 🔍 O que são os Princípios SOLID?
+
+**SOLID** é um acrônimo para cinco princípios fundamentais da engenharia de software orientada a objetos:
+
+1. **S** – *Single Responsibility Principle*  
+   Cada classe deve ter **apenas uma responsabilidade**.
+
+2. **O** – *Open/Closed Principle*  
+   Software deve ser **aberto para extensão**, mas **fechado para modificação**.
+
+3. **L** – *Liskov Substitution Principle*  
+   Subtipos devem ser substituíveis por seus tipos base **sem quebrar o comportamento**.
+
+4. **I** – *Interface Segregation Principle*  
+   Muitas interfaces específicas são melhores que uma única interface genérica.
+
+5. **D** – *Dependency Inversion Principle*  
+   Módulos de alto nível não devem depender de módulos de baixo nível. Ambos devem depender de **abstrações**.
+
+---
+
+## 🎯 Objetivos
+
+- ✅ **Educar**: Ensinar os conceitos por trás de cada princípio.
+- ✅ **Demonstrar**: Mostrar exemplos reais e práticos em C#.
+- ✅ **Simplificar**: Tornar conceitos avançados compreensíveis a todos os níveis de desenvolvedores.
+
+---
+
+## 📚 Conteúdo Disponível
+
+- 🎥 **Vídeos Tutoriais** – Aulas didáticas no canal [dopme.io](https://youtube.com/@dopmeio) *(link fictício – ajuste se necessário)*  
+- 💻 **Exemplos de Código** – Projetos práticos demonstrando cada princípio SOLID.  
+- 💬 **Discussões Técnicas** – Espaço para dúvidas, feedbacks e troca de experiências via Issues e Pull Requests.
+
+---
+
+## 🤝 Como Contribuir
+
+Contribuições são muito bem-vindas! Você pode:
+
+- Criar uma **Issue** com dúvidas, sugestões ou problemas.
+- Abrir um **Pull Request** com melhorias, exemplos ou correções.
+- Compartilhar o projeto com outros devs! 🚀
+
+---
+
+## 📄 Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE).  
+Sinta-se à vontade para usar, modificar e distribuir.
+
+---
+
+## 📬 Entre em Contato
+
+Para **colaboração, dúvidas ou consultoria**, entre em contato:
+
+- ✉️ **Pessoal**: [daniloopro@gmail.com](mailto:daniloopro@gmail.com)  
+- 🏢 **DevsFree**: [devsfree@devsfree.com.br](mailto:devsfree@devsfree.com.br)  
+- 📊 **dopme.io**: [contato@dopme.io](mailto:contato@dopme.io)  
+- 💼 **LinkedIn**: [Danilo O. Pinheiro](https://www.linkedin.com/in/daniloopinheiro)
+
+---
+
+<p align="center">
+  Feito com ❤️ por <a href="https://www.linkedin.com/in/daniloopinheiro" target="_blank"><strong>Danilo O. Pinheiro</strong></a> • <a href="mailto:contato@dopme.io">contato@dopme.io</a>
+</p>
