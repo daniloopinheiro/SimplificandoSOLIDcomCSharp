@@ -24,11 +24,11 @@ jobs:
         
     - name: Restore dependencies
       run: dotnet restore
-      #working-directory: ./src/FESAspNet.API
+      working-directory: ./PrincipioSOLID.Console
         
     - name: Build
       run: dotnet build --no-restore
-      #working-directory: ./src/FESAspNet.API
+      working-directory: ./PrincipioSOLID.Console
       
     #- name: Test
       #run: dotnet test --no-build --verbosity normal
