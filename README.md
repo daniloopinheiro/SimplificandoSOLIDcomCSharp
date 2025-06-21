@@ -1,8 +1,6 @@
-# 📦 dopme.io | Princípios SOLID com C# na prática
+![dopme.io banner](https://github.com/user-attachments/assets/b1f92295-8bcb-4046-b1ba-18d8d974b732)
 
 [![.NET](https://github.com/daniloopinheiro/SimplificandoSOLIDcomCSharp/actions/workflows/dotnet.yml/badge.svg)](https://github.com/daniloopinheiro/SimplificandoSOLIDcomCSharp/actions/workflows/dotnet.yml)
-
-![dopme.io banner](https://github.com/user-attachments/assets/b1f92295-8bcb-4046-b1ba-18d8d974b732)
 
 > Bem-vindo ao repositório oficial do canal **dopme.io**!  
 > Aqui descomplicamos a complexidade do desenvolvimento de software aplicando **C#** com os **Princípios SOLID** de design.
